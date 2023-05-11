@@ -1,0 +1,87 @@
+.logo {
+ font-family: 'Raleway';
+  color: #2196f3;
+  line-height: 31px;
+  font-weight: 700;
+  font size: 26px;
+}
+.link{color: black;}
+.link:hover{color: #2196f3;}
+.menu{
+    font-family: 'roboto';
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1,14;
+}
+
+.contact-mail{font-family: 'roboto';
+    color:black;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1,14;
+}
+.contact-phone{font-family: 'roboto';
+    color: #757575;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1,14;}
+h1{
+    font-family: 'roboto';
+    color: black; 
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 1,36;
+}
+button{
+    font-family: 'Roboto';
+    font-weight: 700;
+font-size: 16px;
+line-height: 1,87;
+}
+h4{font-family: 'Roboto';font-weight: 700;
+font-size: 14px;
+line-height: 1,14;
+color: #212121;
+}
+.lorem-ipsum{
+font-family: 'Roboto'; 
+font-weight: 400;
+font-size: 14px;
+line-height: 1,71;
+color: #757575;
+}
+h2{font-family: 'Roboto';
+    font-weight: 700;
+font-size: 36px;
+line-height: 1,17;
+color: #212121;
+}
+h3{
+    font-family: 'Roboto';
+    font-weight: 500;
+font-size: 16px;
+line-height: 1,18;color: #212121;
+}
+.job-description{font-family: 'Roboto';
+    font-weight: 400;
+font-size: 16px;line-height: 1,18;
+color: #757575;
+}
+.address{
+    font-family: 'Roboto';
+    font-weight: 400;
+font-size: 14px;
+line-height:1,71 ;
+color: black;
+}
+h4{font-family: 'Roboto';font-weight: 700;
+font-size: 18px;line-height:2 ;
+color: #212121;
+}
+.usluga{font-family: 'Roboto';
+    font-weight: 400;
+font-size: 16px;
+line-height:1,87 ;
+color: #757575;
+}
