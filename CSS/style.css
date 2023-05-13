@@ -5,11 +5,7 @@
   font-weight: 700;
   font-size: 26px;
 }
-.menu-links {
-  color: black;
-  justify-content: space-between;
-}
-.menu-links:hover {
+.link:hover {
   color: #2196f3;
 }
 .contact-mail {
